@@ -1,1 +1,1 @@
-＃本项目是一个有用的餐厅点餐的小程序，主要完成菜单列表设计，购物车功能，订单确认页面设计等。
+＃Promise、fetch、购物车加减数量、计算总金额、onPullDownRefresh、下拉刷新、onReachBottom上拉触底
